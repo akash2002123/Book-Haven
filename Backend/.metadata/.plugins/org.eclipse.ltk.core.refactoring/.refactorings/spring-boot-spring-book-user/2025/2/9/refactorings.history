@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.dto.AuthResponse&apos; to &apos;AuthResponseDto&apos;&#x0D;&#x0A;- Original project: &apos;spring-boot-spring-book-user&apos;&#x0D;&#x0A;- Original element: &apos;com.dto.AuthResponse&apos;&#x0D;&#x0A;- Renamed element: &apos;com.dto.AuthResponseDto&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AuthResponse&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dto{AuthResponse.java[AuthResponse" matchStrategy="1" name="AuthResponseDto" qualified="false" references="true" similarDeclarations="false" stamp="1740547075410" textual="false" version="1.0"/>
+</session>
