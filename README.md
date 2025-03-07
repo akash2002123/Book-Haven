@@ -1,6 +1,7 @@
 # Bookstore Application
 
-Docs/DFD.png
+![flow diagram](https://github.com/akash2002123/Book-Haven/blob/main/Docs/DFD.png)
+
 ## Overview
 This project is a Bookstore application with a backend built using Spring Boot, microservices, SQL, and MySQL, and a frontend developed with React.
 
